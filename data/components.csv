@@ -1,0 +1,5 @@
+component_id,type,name,rated_power_w,efficiency,capacity_wh
+PANEL_001,PANEL,Standard 250W Panel,250.0,0.18,0.0
+PANEL_002,PANEL,High-Eff 400W Panel,400.0,0.22,0.0
+BATTERY_001,BATTERY,Basic 5kWh Battery,0.0,0.0,5000.0
+BATTERY_002,BATTERY,Pro 10kWh Battery,0.0,0.0,10000.0

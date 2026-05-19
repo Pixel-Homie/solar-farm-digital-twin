@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.71 56.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+
+      .cls-2 {
+        fill: #323232;
+        stroke: gray;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="__button_idle" data-name="_ button idle">
+    <g id="_-_light" data-name="- light">
+      <path class="cls-2" d="M.5,.5H87.21V56.06H12.54c-6.65,0-12.04-5.39-12.04-12.04V.5H.5Z"/>
+      <rect class="cls-1" x="28.63" y="35.02" width="30.46" height="9.88" rx="3.1" ry="3.1"/>
+    </g>
+  </g>
+</svg>
