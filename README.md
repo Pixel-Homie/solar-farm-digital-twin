@@ -26,7 +26,14 @@ irradiance data from the PVGIS API.
 
 ---
 
+## 🖥️ Screenshots
 
+![Main Window](screen%20shots/workshop interface.png)
+![Map Dialog](screen%20shots/select_farm_location.png)
+
+ - You can find the other screen shots in the /screen shots folder
+
+---
 
 ## 🚀 Getting Started
 
